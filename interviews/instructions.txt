@@ -1,1 +1,10 @@
-Upload your stakeholder interviews here
+Upload your stakeholder interviews here.
+
+Use this format for naming your file: DocumentTitle_YourNames_DDMMYYYY.filetype
+
+You can add files in two ways:
+
+1. click "Upload files", then drag and drop your file onto the page. Once it's finished uploading, go to the bottom and click
+"Commit changes"
+2. click "Create new file", then copy and paste the text of your document into the text box. Make sure you put ".txt" at the
+end of the file. This won't work if your document has pictures or graphs.
