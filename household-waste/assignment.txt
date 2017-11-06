@@ -1,0 +1,11 @@
+The goal of this assignment is to get a glimpse of the waste produced in your households during one week.
+
+Separate all your household waste by type, plastic, metal, paper/cardboard, food, hazardous (like batteries), garden,
+wood and weigh each type then record it in this table together with your name and any noteworthy descriptions.
+
+The report should account for all your household waste during a full week. We recommend doing the measurement on a
+daily basis so it's more manageable and less nasty.
+
+After the recordings just dispose of your waste using your usual method. 
+
+The data will be used in the report you will work on. 
