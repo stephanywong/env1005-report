@@ -1,0 +1,12 @@
+Make an environmental monitoring guide for one sensor including this information:
+
+    Names of group members
+    Parameter being measured
+    Description of the parameter, what it's increase or decrease means and why it's important. 
+    What are the standard values for this parameter? (use EPA or EU guidelines)
+    Take clear pictures of the wiring of your sensor (and attach them at the end)
+    Copy / paste the code you used to program your sensor.
+    +10 points if you make a simulation of your sensor using https://www.tinkercad.com/#/?type=circuits (add a link)
+    What were the values of your parameter at the University of Aruba? Take at least 10 measurements.
+    How did you use the sensor?
+    Describe how your sensor works.
