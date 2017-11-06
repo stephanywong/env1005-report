@@ -1,4 +1,4 @@
-Upload your fieldwork data and reports here
+Upload your fieldwork data and reports here.
 
 Use this format for naming your file: DocumentTitle_YourNames_DDMMYYYY.filetype
 
